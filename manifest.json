@@ -1,0 +1,21 @@
+{
+  "name": "App Kalkulator sederhana",
+  "short_name": "kalkulator",
+  "description": "Membuat Aplikasi Kalkulator sederhana dengan javascript PWA",
+  "icons": [
+    {
+      "src": "assets/images/calculator0.png",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/calculator-1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#1F3641",
+  "background_color": "#ffffff",
+  "prefer_related_applications": false
+}
